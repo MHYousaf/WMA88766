@@ -1,0 +1,17 @@
+body
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body header nav.navbar {
+    background-color: #1d3557 !important;
+}
+#out
+{
+  background-color: #1d3557 !important;
+}
+footer p
+{
+  background-color: #1d3557 !important;
+}
